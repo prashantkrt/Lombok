@@ -36,3 +36,13 @@ public class LaunchEmployee {
 //The main benefit of using the Lombok builder pattern is that
 //it can significantly reduce the amount of boilerplate code you need to write.
 
+// object with constructors
+//User user1 = new User.UserBuilder("Lokesh", "Gupta")
+//.age(30)
+//.phone("1234567")
+//.address("Fake address 1234")
+//.build();
+
+
+//Task task = new TaskBuilder(5).setDescription("Hello").setSummary("Test").build();
+//System.out.println(task);
